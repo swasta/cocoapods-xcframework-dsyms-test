@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-XCFrameworksDSYMTest/Pods-XCFrameworksDSYMTest-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MySDK/FrameworkA.framework/FrameworkA
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MySDK/FrameworkB.framework/FrameworkB

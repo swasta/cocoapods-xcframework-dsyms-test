@@ -1,0 +1,86 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FrameworkA",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "EntityA",
+        "printedName": "EntityA",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "EntityA",
+                "printedName": "FrameworkA.EntityA",
+                "usr": "s:10FrameworkA7EntityAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10FrameworkA7EntityACACycfc",
+            "mangledName": "$s10FrameworkA7EntityACACycfc",
+            "moduleName": "FrameworkA",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "doSomething",
+            "printedName": "doSomething()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10FrameworkA7EntityAC11doSomethingyyF",
+            "mangledName": "$s10FrameworkA7EntityAC11doSomethingyyF",
+            "moduleName": "FrameworkA",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10FrameworkA7EntityAC",
+        "mangledName": "$s10FrameworkA7EntityAC",
+        "moduleName": "FrameworkA",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nikitaborodulin\/Developer\/TestMapboxDSYM\/FrameworkA\/EntityA.swift",
+      "kind": "StringLiteral",
+      "offset": 171,
+      "length": 23,
+      "value": "\"EntityA did something\""
+    }
+  ]
+}

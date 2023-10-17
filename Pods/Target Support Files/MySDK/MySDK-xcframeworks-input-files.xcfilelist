@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/MySDK/MySDK-xcframeworks.sh
+${PODS_ROOT}/../MySDK/FrameworkA.xcframework
+${PODS_ROOT}/../MySDK/FrameworkB.xcframework

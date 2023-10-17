@@ -1,0 +1,2 @@
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MySDK/FrameworkA.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MySDK/FrameworkB.framework
